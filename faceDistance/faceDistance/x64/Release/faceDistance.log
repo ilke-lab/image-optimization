@@ -1,0 +1,4 @@
+﻿  faceDistance.vcxproj -> C:\Users\Okutgen\Desktop\image optimization\faceDistance\x64\Release\faceDistance.exe
+  Invalid number of parameters
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: The command "xcopy C:\Users\Okutgen\Downloads\opencv\build\x64\vc16\bin\opencv_world481.dll C:\Users\Okutgen\Desktop\image optimization\faceDistance\x64\Release\ /c /y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" exited with code 4.
