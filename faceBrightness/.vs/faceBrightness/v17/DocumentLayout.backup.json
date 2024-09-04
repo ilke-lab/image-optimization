@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Okutgen\\source\\repos\\faceBrightness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4CCB25-E87F-490F-BDBA-8DEE705FB674}|faceBrightness\\faceBrightness.vcxproj|C:\\Users\\Okutgen\\source\\repos\\faceBrightness\\faceBrightness\\checkFaceBrightness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B4CCB25-E87F-490F-BDBA-8DEE705FB674}|faceBrightness\\faceBrightness.vcxproj|solutionrelative:faceBrightness\\checkFaceBrightness.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "checkFaceBrightness.cpp",
+              "DocumentMoniker": "C:\\Users\\Okutgen\\source\\repos\\faceBrightness\\faceBrightness\\checkFaceBrightness.cpp",
+              "RelativeDocumentMoniker": "faceBrightness\\checkFaceBrightness.cpp",
+              "ToolTip": "C:\\Users\\Okutgen\\source\\repos\\faceBrightness\\faceBrightness\\checkFaceBrightness.cpp",
+              "RelativeToolTip": "faceBrightness\\checkFaceBrightness.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T11:02:58.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
